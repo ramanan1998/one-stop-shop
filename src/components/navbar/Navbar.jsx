@@ -35,7 +35,7 @@ function Navbar() {
           </div>
         </div>
         <div>
-          <Link className ="font-outfit" to="/"><H4>ONE STOP SHOP</H4></Link>
+          <Link className ="font-outfit" to="atlanta://trips"><H4>ONE STOP SHOP</H4></Link>
           {/* <H1>ONE STOP SHOP</H1> */}
         </div>
         <div className="hidden sm:flex flex-row gap-10">
